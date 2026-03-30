@@ -1,2 +1,6 @@
 # Login-System
-Basic Python login system using dictionary
+This is basic python login system.
+##Features:
+-Register
+-Login
+-Password Check
